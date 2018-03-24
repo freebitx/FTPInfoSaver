@@ -2,7 +2,6 @@ import content
 
 import ftplib
 import logging
-import os
 
 class FTPViewer:
     COUNT_FILE_INFO = 9 # count of words in content info string
